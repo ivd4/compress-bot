@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.6.6
+bitarray==1.0.1
+request==2019.4.13
+beautifulsoup4==4.8.1
